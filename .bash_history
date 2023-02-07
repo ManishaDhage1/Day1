@@ -70,3 +70,85 @@ gedit Dockerfile
 ls
 gedit Dockerfile
 gedit dockerf
+git install
+git --install
+git --version
+git init
+vi myscript.sh
+git status 
+git add.
+git add .
+git status
+git commit -m"my fisrt commit"
+git config --global user.name "manishadhage1"
+git config --global user.email "manisha.dhage@atgeirsolutions.com"
+git commit -m"my fisrt commit"
+git remote add origin https://github.com/ManishaDhage1/Day1.git
+git push origin master
+git push 
+git branch
+git push --set-upstream origin master
+git push
+clear
+git remote add origin https://github.com/ManishaDhage1/Day1.git
+git push origin master
+git push
+git push --set-upstream origin master
+git remote add origin git@github.com:ManishaDhage1/Day1.git
+git push origin master
+git push
+git config --global user.name "ManishaDhage1"
+git config --global user.email "manisha.dhage@atgeirsolutions.com"
+git remote add origin git@github.com:ManishaDhage1/Day1.git
+git push origin master
+git push --set-upstream origin master
+git remote add origin git@github.com:ManishaDhage1/Day1.git
+clear
+git remote add origin git@github.com:ManishaDhage1/Day1.git
+git push --set-upstream origin master
+git push -u origin main
+git push -u origin master
+git remote add origin git@github.com:ManishaDhage1/Day1.git
+git push -u origin master
+git push -u origin main
+git branch -M main
+git push -u origin main
+git remote add origin git@github.com:ManishaDhage1/Day1.git
+git push -u origin main
+git remote add origin git@github.com:ManishaDhage1/Day1.git
+git push -u origin main
+clear
+ssh -i
+git remote add origin git@github.com:ManishaDhage1/Day1.git
+git push -u origin main
+git bash
+git --version
+eval "$(ssh-agent -s)"
+cd /.ssh
+ls
+ls -al ~/.ssh
+git remote add origin git@github.com:ManishaDhage1/Day1.git
+git push -u origin main
+ls
+eval "$(ssh-agent -s)"
+git bash
+apt-get install git
+yes
+su apt-get install git
+sudo apt-get install git
+sudo apt-get update
+git remote set-url origin git@github.com:ManishaDhage1/Day1.git
+git push -u origin main
+git push
+git --version
+git push -u origin main
+git remote add origin git@github.com:ManishaDhage1/Day1.git
+git branch -M main
+git push -u origin main
+ls
+ls -al 
+ls -al ~/.ssh
+git remote set-url origin git@github.com:ManishaDhage1/Day1.git
+cd\
+git remote set-url origin git@github.com:ManishaDhage1/Day1.git
+git push -u origin main

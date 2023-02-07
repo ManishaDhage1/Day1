@@ -1,0 +1,5 @@
+[user]
+	name = ManishaDhage1
+	email = manisha.dhage@atgeirsolutions.com
+[credential]
+	helper = /mnt/c/Program\\ Files/Git/mingw64/libexec/git-core/git-credential-manager.exe
